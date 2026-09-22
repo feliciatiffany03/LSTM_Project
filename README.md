@@ -1,6 +1,4 @@
-# LSTM_Project
 # LSTM Stock Price Prediction
-# LSTM Stock Price Forecasting
 
 This project develops and evaluates Long Short-Term Memory (LSTM) deep learning models for one-step-ahead stock closing price forecasting using historical stock market data from Amazon (AMZN) and Cisco Systems (CSCO).
 
